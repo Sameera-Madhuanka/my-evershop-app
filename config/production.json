@@ -1,0 +1,21 @@
+{
+  "themeConfig": {
+    "logo": {
+      "alt": "Shop logo",
+      "src": "https://raw.githubusercontent.com/Sameera-Madhuanka/face-reg/refs/heads/main/icon1.png?token=GHSAT0AAAAAADJIXRTVKUXH3Z3HGWXJDAIA2FN2C3Q",
+      "width": 75,
+      "height": 75
+    },
+    "headTags": {
+      "links": [
+                {
+          "rel": "icon",
+          "href": "https://raw.githubusercontent.com/Sameera-Madhuanka/face-reg/refs/heads/main/icon1.png?token=GHSAT0AAAAAADJIXRTVKUXH3Z3HGWXJDAIA2FN2C3Q"
+        }
+      ],
+      "metas": [],
+      "scripts": []
+    },
+    "copyRight": "© 2025 Evershop. All Rights Reserved."
+  }
+}

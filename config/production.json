@@ -17,5 +17,15 @@
       "scripts": []
     },
     "copyRight": "© 2025 Evershop. All Rights Reserved."
+  },
+  "db": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "evershop_prod",
+    "user": "evershop",
+    "password": "sameefiver10"
+  },
+  "system": {
+    "base_url": "http://54.234.194.207:3000"
   }
 }
